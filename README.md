@@ -8,7 +8,7 @@ Este repositório contém o código fonte para o desafio "portfólio de Martina 
 
 ## Links
 
-- **Live site:**
+- **Live site:** https://alberto-rj.github.io/portfolio-dev/
 - **Desafio:** https://www.figma.com/design/aLPUHMkSgLRmkDkUy3wpEv/Portfolio-Dev-(Community)?node-id=908-1803&t=czBE1NIGdvgqJvH4-0
 
 ## Estrutura do Projeto
