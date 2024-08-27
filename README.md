@@ -1,6 +1,7 @@
 # Martina Santos | Portfólio
 
-Este repositório contém o código fonte para o desafio "portfólio de Martina Santos", uma "Desenvolvedora Fullstack".
+Este repositório contém o código fonte para o desafio "portfólio
+de Martina Santos", uma "Desenvolvedora Fullstack".
 
 ## Demo
 
