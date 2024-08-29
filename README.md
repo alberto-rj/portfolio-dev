@@ -48,4 +48,4 @@ A estrutura do projeto segue o padrão de uma aplicação web estática:
 ## Licença
 
 - [MIT License](https://github.com/alberto-rj/portfolio-dev/blob/main/LICENSE)
-- Copyright © 2023 - [Alberto Raúl José](https://github.com/alberto-rj/)
+- Copyright © 2024 - [Alberto Raúl José](https://github.com/alberto-rj/)
