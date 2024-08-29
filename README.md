@@ -1,7 +1,9 @@
-# Martina Santos | Portfólio
+<h1 align="center">Martina Santos | Portfólio</h1>
 
-Este repositório contém o código fonte para o desafio "portfólio
-de Martina Santos", uma "Desenvolvedora Fullstack".
+<p align="center">
+  Este repositório contém o código fonte para o desafio "portfólio
+  de Martina Santos", uma "Desenvolvedora Fullstack".
+</p>
 
 ## Demo
 
@@ -43,10 +45,7 @@ A estrutura do projeto segue o padrão de uma aplicação web estática:
 
 3. Abra o arquivo `index.html` no navegador para visualizar o portfólio.
 
-## Autor
-
-Criado por Alberto Raúl José.
-
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
+- [MIT License](https://github.com/alberto-rj/portfolio-dev/blob/main/LICENSE)
+- Copyright © 2023 - [Alberto Raúl José](https://github.com/alberto-rj/)
